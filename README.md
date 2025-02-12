@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning react from meta
 - 💞️ I’m looking to collaborate on web site projects
-- 📫 How to reach me via instagram @abd_alsayad
+- 📫 You can reach me on Instagram @abd_alsayad
 
 <!---
 abdsyd/abdsyd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

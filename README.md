@@ -19,18 +19,19 @@
 
 ---
 
+## 📲 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdsyd/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abd_alsayad)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1MNKPeDaw9/?mibextid=wwXIfr)  
+📧 **Email:** [abod.syd2@gmail.com](mailto:abod.syd2@gmail.com)  
+
+---
+
 ## 📌 Currently Working On  
 🔹 A **website** for my **software company**  
 
 ## 📖 Learning Now  
 🎨 **UI/UX Design with Figma**  
-
----
-
-## 📲 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdsyd/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abd_alsayad)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1MNKPeDaw9/?mibextid=wwXIfr)  
 
 ---
 
